@@ -1,4 +1,4 @@
-# Training project: Webpack
+# Practice project: Webpack
 
 
 
@@ -572,15 +572,13 @@ Links:
 
 - [npm Documentation](https://docs.npmjs.com/)
 - [NodeSchool workshops](https://nodeschool.io/)
-- ​
 - [npm-package.json](https://docs.npmjs.com/files/package.json)
 - [webpack](https://webpack.js.org/guides/getting-started/)
-  - [style-loader](https://webpack.js.org/loaders/style-loader/)
-  - [css-loader](https://webpack.js.org/loaders/css-loader/)
+- [style-loader](https://webpack.js.org/loaders/style-loader/)
+- [css-loader](https://webpack.js.org/loaders/css-loader/)
 - [normalize.css](https://necolas.github.io/normalize.css/)
-- npm
-  - [optimize-css-assets-webpack-plugin](https://www.npmjs.com/package/optimize-css-assets-webpack-plugin)
+- [optimize-css-assets-webpack-plugin](https://www.npmjs.com/package/optimize-css-assets-webpack-plugin)
 - [babel](https://babeljs.io/setup#installation)
-  - [babel-preset-typescript](https://babeljs.io/docs/en/babel-preset-typescript)
+- [babel-preset-typescript](https://babeljs.io/docs/en/babel-preset-typescript)
 
-- [Видеокурс](https://www.youtube.com/watch?v=eSaF8NXeNsA)
+- [Видеокурс(YouTube)](https://www.youtube.com/watch?v=eSaF8NXeNsA)
